@@ -10,4 +10,4 @@ class Solution(object):
 
         return -1 
 solution = Solution()
-print (solution.pivotIndex([1,7,3,6,5,6]))
+print (solution.pivotIndex([1,7,3,6,5,6]))\
